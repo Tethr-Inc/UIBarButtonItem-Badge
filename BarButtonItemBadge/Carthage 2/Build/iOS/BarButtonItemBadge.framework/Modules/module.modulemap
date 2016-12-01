@@ -1,0 +1,6 @@
+framework module BarButtonItemBadge {
+  umbrella header "BarButtonItemBadge.h"
+
+  export *
+  module * { export * }
+}
