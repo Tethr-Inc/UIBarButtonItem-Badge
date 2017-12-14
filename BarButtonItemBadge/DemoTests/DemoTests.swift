@@ -1,15 +1,15 @@
 //
-//  BarButtonItemBadgeTests.swift
-//  BarButtonItemBadgeTests
+//  DemoTests.swift
+//  DemoTests
 //
-//  Created by Ian MacCallum on 12/1/16.
-//  Copyright © 2016 Tethr. All rights reserved.
+//  Created by Ian MacCallum on 1/3/17.
+//  Copyright © 2017 Tethr. All rights reserved.
 //
 
 import XCTest
-@testable import BarButtonItemBadge
+@testable import Demo
 
-class BarButtonItemBadgeTests: XCTestCase {
+class DemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
